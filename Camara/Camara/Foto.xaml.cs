@@ -24,16 +24,18 @@ namespace Camara
                 Name = "mifoto.jpg"
             });//el takephotoasync abre la camara
 
-            if (f != null)
-            {
+            var st = f.GetStream();
+            f.Dispose();//borra el fichero del disco porque como lo subo a la nube no me hace falta en el disco del movil
+            var l = st.Length;//guardo longitud de la foto
+            byte[] bt=new byte[l];//guardo la longitud de la foto en un array de bytes
+            st.Read(bt, 0, bt.Length);
 
-                MiFoto.Source = ImageSource.FromStream(() =>
-                {
-                    var st = f.GetStream();
-                    f.Dispose();
-                    return st;
-                });
-            }
+            var upload=new UploadFile();
+
+            await upload.SubirFoto(bt);
+
+            MiFoto.Source = ImageSource.FromStream(() =>
+                st);
         }
     }
 }

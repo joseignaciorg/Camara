@@ -39,5 +39,14 @@ c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Plugin.Permissions.dll.mdb
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
-c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\obj\Debug\Camara.Droid.dll.mdb
-c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Camara.Droid.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Camara.Droid.dll.config
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\RestSharp.Portable.Core.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\RestSharp.Portable.HttpClient.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\RestSharp.Portable.Core.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\RestSharp.Portable.HttpClient.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\ContactosModel.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\ContactosModel.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\obj\Debug\Camara.Droid.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Camara.Droid.dll.mdb
